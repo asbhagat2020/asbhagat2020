@@ -1,6 +1,8 @@
 # 💫 About Me:
 ## Hi there! 👋<br><br>🔭 I’m currently working on exciting projects, including a full-stack fitness application with real-time collaboration features.<br><br>👯 I’m looking to collaborate on open-source projects that leverage Node.js, Express, and React. I'm particularly interested in projects involving web development, APIs, and database management.<br><br>🤝 I’m looking for help with refining my skills in microservices architecture and implementing advanced security practices in full-stack web development.<br><br>🌱 I’m currently learning about advanced JavaScript concepts, performance optimization in web development, and exploring the capabilities of React-Redux.<br><br>💬 Ask me about full-stack development, JavaScript, React, integrating SQL and NoSQL databases, or setting up JWT authentication for secure applications.<br><br>⚡ Fun fact: When I'm not coding, I love to play cricket and explore new hiking trails!<br>
 
+## 🌐 Portfolio:
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://main--ashwinnbhagat-portfolio.netlify.app/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashwin-bt/) 

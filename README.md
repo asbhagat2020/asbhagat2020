@@ -37,7 +37,7 @@ Full Stack Development • MERN Stack • REST APIs • Authentication • Datab
 # 🌐 Portfolio
 
 🔗 Check out my portfolio:
-👉 **https://main--ashwinnbhagat-portfolio.netlify.app/**
+👉 **https://portfolio-beta-two-1h7xhb4urx.vercel.app/**
 
 ---
 

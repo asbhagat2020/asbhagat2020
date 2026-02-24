@@ -2,7 +2,7 @@
 
 ## Hi there! 👋 I'm Ashwin
 
-🔭 I’m a **Full Stack MERN Developer** with 2+ years of hands-on experience building scalable and production-ready web applications.
+🔭 I’m a **Full Stack MERN Developer** with 2 years of hands-on experience building scalable and production-ready web applications.
 
 🚀 I’ve contributed to real-world platforms, including:
 
